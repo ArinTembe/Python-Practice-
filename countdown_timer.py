@@ -11,5 +11,5 @@ def countdown(t):
 
     print("Timer completed get back to work!")
 
-t = int(input("Enter time in seconds: "))
+t = int(input("Enter time in Hours/Minutes/Seconds: "))
 countdown(int(t))
